@@ -1,7 +1,8 @@
 # Blog
 
 ## Skills
-* 
+* Industry Experience: 3-year industry experience as a data analyst specializing in data extracting and cleaning, report/dashboard design, statistical analysis, optimization, forecasting and provide insights on products and market growth.
+* Programming & Tools: 3+ years’ experience in SQL (MySQL), Python (NumPy, Pandas, SciPy, Scikit‑learn, Matplotlib, Seaborn, Plotly), and Tableau; proficient in R and Stata. 
 * 
 * 123
 
