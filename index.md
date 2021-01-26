@@ -1,4 +1,12 @@
-## Portfolio
+## Skills
+* 
+* 
+* 123
+
+---
+
+
+## Projects
 
 ---
 
