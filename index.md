@@ -1,12 +1,11 @@
 # Blog
 
-## Core Competencies:
-• Data Analysis & Viz: Tableau | Python(NumPy, Pandas, SciPy, Scikit‑learn,Matplotlib, Seaborn, Plotly) | R | Excel
-• Data Pipelines: SQL | ETL 
-• Machine Learning: Linear/Logistic Regression | Random Forest | PCA | XGBoost | SVM | K-means
-• Product Opportunity: A/B Testing | AARRR Model | Cohort Analysis | Funnel Analysis
+## Core Competencies
+* Data Analysis & Viz: Tableau | Python(NumPy, Pandas, SciPy, Scikit‑learn,Matplotlib, Seaborn, Plotly) | R | Excel
+* Data Pipelines: SQL | ETL 
+* Machine Learning: Linear/Logistic Regression | Random Forest | PCA | XGBoost | SVM | K-means
+* Product Analytics: A/B Testing | AARRR Model | Cohort Analysis | Funnel Analysis
 
----
 <br>
 
 ## Projects
